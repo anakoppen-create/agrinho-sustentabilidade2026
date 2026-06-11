@@ -1,5 +1,4 @@
 # agrinho-sustentabilidade2026
-eco-reuse/
 ├── README.md
 ├── docs/
 │   └── guia-reciclagem.md
