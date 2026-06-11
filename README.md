@@ -16,7 +16,7 @@ Projeto open source focado em reciclagem e reaproveitamento de materiais.
 Promover práticas sustentáveis através da educação ambiental e do compartilhamento de recursos sobre reciclagem.
 
 ## Como usar
-
+como eu crio o repositorio? 
 - Leia o guia em `docs/guia-reciclagem.md`
 - Explore os dados em `data/materiais-reciclaveis.csv`
 - Teste a calculadora em `src/calculadora-residuos.py`
